@@ -4,8 +4,8 @@ Follow this guide to prepare you Google Cloud Project and deployment machine.
 
 ## Setting up your Google Cloud Project
 
-1. [Sign up](https://cloud.google.com/compute/docs/signup) for Google Cloud Platform
-1. Create a [new project](https://console.cloud.google.com/iam-admin/projects)
+1. [Sign up](https://cloud.google.com/compute/docs/signup) for Google Cloud Platform or [Sign in](https://www.google.com/accounts/ServiceLogin?passive=true&continue=https%3A%2F%2Fcloud.google.com%2F%3Frefresh%3D1&service=cloudconsole) to your existing account
+1. Create a [new project](https://console.cloud.google.com/iam-admin/projects) or select an existing project
 1. Enable the [Cloud Resource Manager API](https://console.cloud.google.com/apis/api/cloudresourcemanager.googleapis.com/overview)
 1. Enable [billing](https://support.google.com/cloud/answer/6293499?hl=en#enable-billing)
 1. Verify your [existing quota](https://console.cloud.google.com/iam-admin/quotas) and file a [quota increase](https://cloud.google.com/compute/quotas) of necessary.
